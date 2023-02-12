@@ -1,7 +1,7 @@
 {
   "name": "oryxjs",
   "version": "0.0.1",
-  "description": "",
+  "description": "Utilities to help you separate the code into modules",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/cmayo/oryxjs/issues"
   },
-  "homepage": "https://github.com/cmayo/oryxjs#readme",
+  "homepage": "https://github.com/cmayo/oryxjs",
   "devDependencies": {
     "@types/jest": "^29.4.0",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
